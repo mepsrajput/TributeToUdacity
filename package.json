@@ -1,0 +1,23 @@
+{
+  "name": "tributetoudacity",
+  "version": "1.0.0",
+  "description": "A fun project to tribute udacity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mepsrajput/TributeToUdacity.git"
+  },
+  "author": "Pradeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mepsrajput/TributeToUdacity/issues"
+  },
+  "homepage": "https://github.com/mepsrajput/TributeToUdacity#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
